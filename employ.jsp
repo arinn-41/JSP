@@ -76,7 +76,6 @@ button:hover {
       placeholder="Enter Emp Job"
       name="ejob"
     />
-    
      <label><b>Emp Sal</b></label>
     <input
       type="number"
